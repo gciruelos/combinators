@@ -4,6 +4,8 @@ Introducción
 Esto es código para boludear con lo visto en la charla del grupo de lectura sobre cálculo lambda del 19 de Mayo de 2016.
 Sepan disculpar la poca prolijidad, no usé ningun parser combinatorio de Haskell, lo hice todo a mano.
 
+_Importante_: No chequea tipado ni nada, solamente intenta parsear la fórmula y ejecutarla.
+
 Link al sitio: https://sites.google.com/site/labandalambda/
 
 
